@@ -1,0 +1,51 @@
+Padrões
+
+- Equipe 1: Singleton (Erick, Lucas, Leonardo)
+
+- Equipe 2: State (Werbert, Marcelo)
+
+- Equipe 3: Observer (Eugênio, João, Lucas)
+
+- Equipe 4: Decorator (João Victor Moura, Lucas Gabriel)
+
+- Equipe 5: Template Method (Arthur, Rafaela, Gabriel Gonzaga)
+
+- Equipe 6: Adapter (Vilner)
+
+- Equipe 7: Proxy (Sueyvid, Lucas Freire Costa, Joel)
+
+- Equipe 8: Prototype (Guilherme, Marcela)
+
+- Equipe 9: Abstract Factory (Victor Alcantara)
+
+- Equipe 10: Command (Alisson)
+
+ 
+
+- 50%: Apresentação sobre 1 padrão de projeto
+
+- Perguntas norteadoras:
+
+- Qual o tipo do padrão? Por que?
+
+- Qual problema ele resolve?
+
+- Quem são as entidades/componentes participantes? Quais as responsabilidades?
+
+- Diagrama UML
+
+- Exemplo prático (implementação simples em linguagem de preferência)
+
+- Existe alguma variação ou extensão?
+
+- Quais as vantagens e desvantagens de aplicar o padrão?
+
+- Avaliação:
+
+- Compreensão do padrão (25%)
+
+- Aplicação prática  (25%)
+
+- Clareza e didática (25%)
+
+- Análise crítica (25%)
