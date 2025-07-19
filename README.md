@@ -15,7 +15,7 @@ meupostodesaude/
 
 │   ├── models/              # Modelos do banco de dados (ORM)
 
-│   ├── schemas/             # Schemas Pydantic (validação de dados)
+│   ├── schemas/              # Schemas Pydantic (validação de dados)
 
 │   ├── routes/              # Endpoints da API
 
