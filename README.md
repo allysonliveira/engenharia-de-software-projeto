@@ -9,28 +9,43 @@
 
 meupostodesaude/
 
+projeto-backend-demo/
+├── .env
+
+├── requirements.txt
+
+├── docker-compose.yml
+
+├── Dockerfile
+
+├── script_demo.py
+
 ├── app/
 
-│   ├── main.py              # Arquivo principal da API
+│   ├── __init__.py
 
-│   ├── models/              # Modelos do banco de dados (ORM)
+│   ├── main.py
 
-│   ├── schemas/              # Schemas Pydantic (validação de dados)
+│   ├── core/
 
-│   ├── routes/              # Endpoints da API
+│   │   ├── __init__.py
 
-│   ├── services/            # Regras de negócio
+│   │   └── database.py
 
-│   └── core/                # Configurações e autenticação
+│   ├── models/
 
-├── script_demo.py           # Script com chamadas HTTP
+│   │   ├── __init__.py
 
-├── Dockerfile               # Definição do container backend
+│   │   └── usuario.py
 
-├── docker-compose.yml       # Integração com banco
+│   └── routes/
 
-├── .env                     # Variáveis de ambiente (ex: DB_URL, SECRET)
+│       ├── __init__.py
 
-├── requirements.txt         # Dependências do Python
+│       └── usuarios.py
 
-└── .github/workflows/tests.yml # CI/CD (GitHub Actions)
+└── .github/
+
+    └── workflows/
+    
+        └── tests.yml
